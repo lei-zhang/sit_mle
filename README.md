@@ -1,2 +1,2 @@
 # sit_mle
-projectname 'sit': maximum likelihood estimate
+project 'sit': maximum likelihood estimate
